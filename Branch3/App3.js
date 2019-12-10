@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from './node_modules/react';
 import { View, Button } from 'react-native';
 
 const App = (props) => {
